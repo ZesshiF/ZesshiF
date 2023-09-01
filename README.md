@@ -17,13 +17,13 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZesshiF&theme=onedark&hide&show_icons=true&count_private=true)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZesshiF&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZesshiF&theme=onedark&hide&layout=compact)
 
 ### Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ZesshiF)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ZesshiF&theme=onedark&hide)
 
 ### Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZesshiF)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZesshiF&theme=onedark&hide)
 
 
 <!-- ## 📚 Latest Blog Posts
