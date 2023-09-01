@@ -14,7 +14,7 @@
 ## 📈 GitHub Stats
 
 ### Overall GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZesshiF&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZesshiF&theme=onedark&hide&show_icons=true&count_private=true)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZesshiF&layout=compact)
