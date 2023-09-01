@@ -7,13 +7,10 @@
 🌱 I'm currently learning in my 3rd year of university, software engineering major.
 <!-- 🚀 I'm constantly working on [Your Projects]. -->
 👯 I'm looking to collaborate on open source projects.
-
 <!-- ## 🔧 Technologies & Tools
 [![Tech 1](https://img.shields.io/badge/-Tech1-blue)](link1)
 [![Tech 2](https://img.shields.io/badge/-Tech2-orange)](link2)
 [![Tech 3](https://img.shields.io/badge/-Tech3-red)](link3) -->
-
-## 📈 GitHub Stats
 ## 📈 GitHub Stats
 
 ### Overall GitHub Stats
