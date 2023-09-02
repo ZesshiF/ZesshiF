@@ -1,5 +1,3 @@
-### 📅 Last Updated:
-<!-- last update time -->
 <div align="center">
 
 # Hi there 👋 This is My University Workspace
