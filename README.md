@@ -23,8 +23,6 @@
 ### Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ZesshiF&theme=dark&hide)
 
-### Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZesshiF&theme=dark&hide)
 
 ## 🛠️ Recent Projects
 - [Project 1](https://github.com/SE331-2023-project1/project01-mairoo)
