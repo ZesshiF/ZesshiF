@@ -8,7 +8,7 @@
 
 ---
 
-🌱 I'm currently learning in my 3rd year of university, software engineering major.<br>
+🌱 I'm currently learning in my 4th year of university, software engineering major.<br>
 👯 I'm looking to collaborate on open source projects.
 
 ## 📈 GitHub Stats
@@ -18,9 +18,6 @@
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZesshiF&theme=dark&hide&layout=compact)
-
-### Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ZesshiF&theme=dark&hide)
 
 
 ## 🛠️ Recent Projects
