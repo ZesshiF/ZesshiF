@@ -20,9 +20,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZesshiF&theme=dark&hide&layout=compact)
 
 
-## 🛠️ Recent Projects
-- [Project 1](https://github.com/SE331-2023-project1/project01-mairoo)
-
 ---
 
 ## ❤️ Support Me
